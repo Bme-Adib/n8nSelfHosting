@@ -15,7 +15,6 @@ This guide is written step-by-step for beginners.
 - [Step 4: Start n8n](#step-4-start-n8n)  
 - [Access n8n](#access-n8n)  
 - [Contact](#contact)  
-- [License](#license)  
 
 ---
 
@@ -104,9 +103,4 @@ Created by **The Biomed Nest**
 
 Feel free to reach out with questions, suggestions, or feedback!  
 
----
 
-## License  
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.  
