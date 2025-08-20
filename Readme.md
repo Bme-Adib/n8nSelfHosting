@@ -22,9 +22,10 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ```
 
 
-Create new Folder
+clone docker compose file
 
 ```
-mkdir n8nSelfHost
-https://github.com/Bme-Adib/n8n_self_hosting.git
+git clone https://github.com/Bme-Adib/n8n_self_hosting.git
+cd n8nSelfHost
+cat .env
 ```
