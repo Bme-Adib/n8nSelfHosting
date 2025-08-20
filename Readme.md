@@ -20,3 +20,11 @@ sudo apt-get update
 ```shell
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
+
+
+Create new Folder
+
+```
+mkdir n8nSelfHost
+https://github.com/Bme-Adib/n8n_self_hosting.git
+```
