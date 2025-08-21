@@ -1,9 +1,9 @@
+![Docker](https://img.shields.io/badge/docker-ready-blue) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange) ![Last Commit](https://img.shields.io/github/last-commit/Bme-Adib/n8nSelfHosting) ![Version](https://img.shields.io/badge/version-2.0.0-green)
+
 # n8n Self Hosting
 
 Easily host your own [n8n](https://n8n.io/) automation platform using Docker on Ubuntu.
 This guide is written step-by-step for beginners.
-
-![Docker](https://img.shields.io/badge/docker-ready-blue) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange) ![Last Commit](https://img.shields.io/github/last-commit/Bme-Adib/n8nSelfHosting) ![Version](https://img.shields.io/badge/version-1.0.0-green)
 
 ---
 
