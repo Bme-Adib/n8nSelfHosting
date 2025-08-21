@@ -1,4 +1,4 @@
-![Docker](https://img.shields.io/badge/docker-ready-blue) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange) ![Last Commit](https://img.shields.io/github/last-commit/Bme-Adib/self-host-ai-advanced-kit) ![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Docker](https://img.shields.io/badge/docker-ready-blue) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange) ![Last Commit](https://img.shields.io/github/last-commit/Bme-Adib/self-host-ai-advanced-kit) ![Version](https://img.shields.io/badge/version-2.0.0-green)
 
 
 
@@ -41,9 +41,13 @@ Curated by [n8n.io](https://github.com/n8n-io), forked and customized here to in
 ## What’s Included
 
 ✅ **[n8n](https://n8n.io/):** Low-code automation platform with AI components
+
 ✅ **[Ollama](https://ollama.com/):** Cross-platform LLM runner
+
 ✅ **[Open WebUI](https://openwebui.com/):** Self-hosted AI chat interface
+
 ✅ **[Qdrant](https://qdrant.tech/):** High-performance vector database
+
 ✅ **[PostgreSQL](https://www.postgresql.org/):** Reliable SQL database engine
 
 ---
@@ -51,8 +55,11 @@ Curated by [n8n.io](https://github.com/n8n-io), forked and customized here to in
 ## What You Can Build
 
 ⭐ AI Agents for scheduling and automation
+
 ⭐ Secure PDF summarization without data leaks
+
 ⭐ Smarter Slack/Discord bots
+
 ⭐ Private financial document analysis
 
 ---
