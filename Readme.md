@@ -150,6 +150,7 @@ cloudflared tunnel create my-tunnel
 Create a configuration file:
 
 ```bash
+sudo mkdir /etc/cloudflared
 sudo nano /etc/cloudflared/config.yml
 ```
 
