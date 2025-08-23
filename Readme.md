@@ -69,6 +69,7 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plug
 Download the repository and move into the project folder:
 
 ```bash
+cd ~
 git clone https://github.com/Bme-Adib/n8nSelfHosting.git
 cd n8nSelfHosting
 ```
